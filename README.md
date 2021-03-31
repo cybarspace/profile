@@ -1,2 +1,2 @@
-# blogsite
-Personal Blog
+# profile
+Personal Profile Page
